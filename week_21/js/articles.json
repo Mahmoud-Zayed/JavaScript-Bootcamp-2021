@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Go Out",
+        "body": "Article Number 1 Body",
+        "category": "Action",
+        "author": "Mohammed"
+    },
+    {
+        "id": 2,
+        "title": "The Galaxi",
+        "body": "Article Number 2 Body",
+        "category": "Fantasia",
+        "author": "Yassin"
+    },
+    {
+        "id": 3,
+        "title": "Life",
+        "body": "Article Number 3 Body",
+        "category": "Cultur",
+        "author": "Soufiane"
+    },
+    {
+        "id": 4,
+        "title": "How To Summarize",
+        "body": "Article Number 3 Body",
+        "category": "Education",
+        "author": "Osama"
+    },
+    {
+        "id": 5,
+        "title": "Manage Time",
+        "body": "Article Number 4 Body",
+        "category": "Tricks",
+        "author": "Ali"
+    }
+]
